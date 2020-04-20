@@ -23,5 +23,5 @@ Raymon Anthony Doane: 3.1% (11,606)
 Winner: Diana DeGette
 Winning Vote Count: 272,892
 Winning Percentage: 73.8%
-----------------------------
+----------------------------  
   
